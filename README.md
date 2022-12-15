@@ -31,7 +31,7 @@ PHOTO
 <!--- 
 ## More info at
  - [Makers Making Change Forum Thread](TBD) 
- - [Makers Making Change Project Page](https://makersmakingchange.com/project/one-handed-mod-xbox-series-xs-controller )
+ - [Makers Making Change Project Page](https://makersmakingchange.com/project/one-handed-mod-xbox-series-xs-controller)
  --->
 
 
@@ -44,7 +44,7 @@ Include an overall idea of what major steps are required to build the device.
 The [Bill of Materials](/Documentation/OneHandedXboxXSController_BOM_V1.0.xlsx) lists all of the parts and components required to build the one handed modification for the Xbox Series X|S Controller.
 
 ### 2. Print the 3D Printable components
-Print the components for the switch tester case and choose an option for the case.
+Select the correct modification (right or left handed modification) and print all the necessary parts for that modification.
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
@@ -64,12 +64,12 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Design Summary| 1.0 | [ProjectTitle_Design_Specifications](/Documentation/OneHandedXboxXSController_Summary_V1.0.pdf) |
-| Design Rationale     | 1.0 | [ProjectTitle_Design_Rationale](/Documentation/OneHandedXboxXSController_Design_Rationale_V1.0.pdf) |
-| Bill of Materials    | 1.0 | [ProjectTitle_BOM](/Documentation/OneHandedXboxXSController_BOM_V1.0.xlsx) |
-| Maker Guide      | 1.0 | [ProjectTitle_Checklist](/Documentation/OneHandedXboxXSController_Maker_Guide_V1.0.pdf) |
-| User Guide          | 1.0 | [ProjectTitle_Quick_Guide](/Documentation/OneHandedXboxXSController_User_Guide_V1.0.pdf)           |
-| Changelog            | 1.0 | [ProjectTitle_Changelog](/Documentation/OneHandedXboxXSController_Changelog_V1.0.pdf)               |
+| Design Summary| 1.0 | [OneHandedXboxXSController_Summary](/Documentation/OneHandedXboxXSController_Summary_V1.0.pdf) |
+| Design Rationale     | 1.0 | [OneHandedXboxXSController_Design_Rationale](/Documentation/OneHandedXboxXSController_Design_Rationale_V1.0.pdf) |
+| Bill of Materials    | 1.0 | [OneHandedXboxXSController_BOM](/Documentation/OneHandedXboxXSController_BOM_V1.0.xlsx) |
+| Maker Guide      | 1.0 | [OneHandedXboxXSController_Maker_Guide](/Documentation/OneHandedXboxXSController_Maker_Guide_V1.0.pdf) |
+| User Guide          | 1.0 | [OneHandedXboxXSController_User_Guide](/Documentation/OneHandedXboxXSController_User_Guide_V1.0.pdf)           |
+| Changelog            | 1.0 | [OneHandedXboxXSController_Changelog](/Documentation/OneHandedXboxXSController_Changelog_V1.0.pdf)               |
 
 ### Build Files
 <!---
