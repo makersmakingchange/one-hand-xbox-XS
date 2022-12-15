@@ -14,24 +14,24 @@ This document includes helper text that will not be displayed when rendered. Any
 TITLE
 Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
  --->
- # (todo:Project Title)
+ # One Handed Modification for Xbox Series X|S Controller
 
 <!--- 
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-The (todo:Project Title) is for making it easier to document Open-Source Assistive Technology devices. It is intended for use by makers. The device is  comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8 (plus $8 for component shipping).
+The one handed modification for the Xbox Series X|S Controller are modifications to allow users to operate an Xbox Series X|S controller with one hand. There are modifications for the right and left hands.
 
 <!--- 
 PHOTO
 
  --->
-![Image Description](Photos/Device_Photo.jpg)
+![An Xbox controller with the left hand modification and Button Decorations being held in a left hand.](Photos/controller image.webp)
 
 <!--- 
 ## More info at
  - [Makers Making Change Forum Thread](TBD) 
- - [Makers Making Change Project Page](TBD)
+ - [Makers Making Change Project Page](https://makersmakingchange.com/project/one-handed-mod-xbox-series-xs-controller )
  --->
 
 
