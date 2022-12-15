@@ -41,15 +41,15 @@ Include an overall idea of what major steps are required to build the device.
  --->
 
 ### 1. Order the Off-The-Shelf Components
-The [Bill of Materials](/Documentation/ProductTitle_BOM_v0.1.xlsx) lists all of the parts and components required to build the (todo:Project Title). The electronic components may be available locally, but will probably need to be ordered online. 
+The [Bill of Materials](/Documentation/OneHandedXboxXSController_BOM_V1.0.xlsx) lists all of the parts and components required to build the one handed modification for the Xbox Series X|S Controller.
 
 ### 2. Print the 3D Printable components
 Print the components for the switch tester case and choose an option for the case.
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
-### 3. Assemble the (todo:Product Title)
-Reference the [assembly guide](/Documentation/ProductTitle_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+### 3. Assemble the one handed modification for the Xbox Series X|S Controller.
+Reference the [maker guide](/Documentation/OneHandedXboxXSController_Maker_Guide_V1.0.pdf) for the tools and steps required to build each portion.
 
 ## Files
 <!---
@@ -64,21 +64,12 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Design Specifications| 1.0 | [ProjectTitle_Design_Specifications](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Design Rationale     | 1.0 | [ProjectTitle_Design_Rationale](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Bill of Materials    | 1.0 | [ProjectTitle_BOM](/Documentation/ProjectTitle_BOM_v0.1.xlsx) |
-| Assembly Guide       | 1.0 | [ProjectTitle_Instructions](/Documentation/ProjectTitle_Assembly_Guide_v0.1.pdf) |
-| Maker Checklist      | 1.0 | [ProjectTitle_Checklist](/Documentation/ProjectTitle_Maker_Checklist_v0.1.pdf) |
-| User Quick Guide          | 1.0 | [ProjectTitle_Quick_Guide](/Documentation/ProjectTitle_Quick_Guide_v0.1.pdf)           |
-| Changelog            | 1.0 | [ProjectTitle_Changelog](/Documentation/ProjectTitle_Changelog_v0.1.pdf)               |
-
-### Design Files
-<!---
-DESIGN FILES
-If possible, include a copy of original design files to facilitate easy editing and customization.
---->
- - [CAD Files](/Design_Files/CAD)
- - [PCB Files](/Design_Files/PCB)
+| Design Summary| 1.0 | [ProjectTitle_Design_Specifications](/Documentation/OneHandedXboxXSController_Summary_V1.0.pdf) |
+| Design Rationale     | 1.0 | [ProjectTitle_Design_Rationale](/Documentation/OneHandedXboxXSController_Design_Rationale_V1.0.pdf) |
+| Bill of Materials    | 1.0 | [ProjectTitle_BOM](/Documentation/OneHandedXboxXSController_BOM_V1.0.xlsx) |
+| Maker Guide      | 1.0 | [ProjectTitle_Checklist](/Documentation/OneHandedXboxXSController_Maker_Guide_V1.0.pdf) |
+| User Guide          | 1.0 | [ProjectTitle_Quick_Guide](/Documentation/OneHandedXboxXSController_User_Guide_V1.0.pdf)           |
+| Changelog            | 1.0 | [ProjectTitle_Changelog](/Documentation/OneHandedXboxXSController_Changelog_V1.0.pdf)               |
 
 ### Build Files
 <!---
@@ -86,17 +77,15 @@ BUILD FILES
 This section i
 --->
  - [3D Printing Files](/Build_Files/3D_Printing)
- - [Custom PCB Files](/Build_Files/Custom_PCB)
- - [V1.0 3MF](/Build_Files/3D_Printing/ProductTitle_v1.0.3mf)
 
 ## License
 <!---
 LICENSE
 Choose an appropriate license. We recommend an open-source hardware compatible license.
 --->
-Everything needed or used to design, make, test, or prepare the (todo: Project Title) is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P).
+Everything needed or used to design, make, test, or prepare the one handed modification for the Xbox Series X|S Controller is licensed under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
 
-Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the (todo: Project Title) are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the one handed modification for the Xbox Series X|S Controller are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
 
 ## Attribution
 <!---
