@@ -93,9 +93,9 @@ ATTRIBUTION
 Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design
 --->
 
-The original design files were created by [Akaki] (https://www.printables.com/social/106360-akaki/about).
+The original design files were created by [Akaki](https://www.printables.com/social/106360-akaki/about).
 
-The left handed modification was remixed by [Ryan Heitanen] (https://www.printables.com/social/120065-ryan-hietanen/about).
+The left handed modification was remixed by [Ryan Heitanen](https://www.printables.com/social/120065-ryan-hietanen/about).
 
 The documentation template was created by Makers Making Change and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
