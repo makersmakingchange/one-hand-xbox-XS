@@ -26,7 +26,7 @@ The one handed modification for the Xbox Series X|S Controller are modifications
 PHOTO
 
  --->
-![An Xbox controller with the left hand modification and Button Decorations being held in a left hand.](Photos/controller image.webp)
+![An Xbox controller with the left hand modification and Button Decorations being held in a left hand.](Photos/controller_image.webp)
 
 <!--- 
 ## More info at
