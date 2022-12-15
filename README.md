@@ -28,11 +28,10 @@ PHOTO
  --->
 ![An Xbox controller with the left hand modification and Button Decorations being held in a left hand.](Photos/Device_image.jpg)
 
-<!--- 
 ## More info at
- - [Makers Making Change Forum Thread](TBD) 
+ - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/one-handed-modification-for-xbox-series-xs-controller) 
  - [Makers Making Change Project Page](https://makersmakingchange.com/project/one-handed-mod-xbox-series-xs-controller)
- --->
+ 
 
 
 ## Getting Started
