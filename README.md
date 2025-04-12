@@ -1,19 +1,16 @@
 <!--- Open Source Assistive Technology: GitHub Readme Template  --->
 
-<!--- INSTRUCTIONS --->
-<!--- This is a markdown template for creating the README.md file in a GitHub repository. This file is rendered and displayed automatically when someone visits the repository.
-
-This document includes helper text that will not be displayed when rendered. Any text between the less-than sign + exclamation mark + three hyphen-minus (<!---) and matching three hyphen-minus + greater-than sign will not be displayed. This helper text can be deleted once the corresponding section is completed.
---->
- 
-<!--- TITLE: Should match the name of the GitHub repository. Choose something descriptive rather than whimsical.  --->
+<!--- TITLE --->
  # One Handed Modification for Xbox Series X|S Controller
 
 <!--- SUMMARY: A brief summary of the project. What it does, who it is for, how much it costs. --->
-The one handed modification for the Xbox Series X|S Controller are modifications to allow users to operate an Xbox Series X|S controller with one hand. There are modifications for the right and left hands.
+The one handed modification for the Xbox Series X|S Controller are modifications to allow users to operate an Xbox Series X|S controller with one hand. There are different modifications available for both right- and left-handed use.
+
+The original design was created by [Akaki](https://www.printables.com/social/106360-akaki/about).
 
 <!--- PHOTO --->
-![An Xbox controller with the left hand modification and Button Decorations being held in a left hand.](Photos/Device_image.jpg)
+<img src="Photos/One_Hand_Xbox_XS_Left_Hand.jpg" height="200" alt="An Xbox controller with the left hand modification and Button Decorations being held in a left hand."><img src="Photos/One_Hand_Xbox_XS_Right_Hand.jpg" height="200" alt="An Xbox controller with the right hand modification and Button Decorations being held in a right hand."> 
+
 
 ## More info at
  - [Makers Making Change Project Page](https://makersmakingchange.com/project/one-handed-mod-xbox-series-xs-controller)
@@ -48,6 +45,9 @@ Reference the [maker guide](/Documentation/OneHandedXboxXSController_Maker_Guide
 | User Guide          | 1.0 | [OneHandedXboxXSController_User_Guide](/Documentation/OneHandedXboxXSController_User_Guide.pdf)           |
 | Changelog            | 1.0 | [OneHandedXboxXSController_Changelog](/Documentation/OneHandedXboxXSController_Changelog.pdf)               |
 
+### Design Files
+ - Unfortunately, no CAD files are available for this device.
+
 ### Build Files
 <!--- BUILD FILES --->
  - [3D Printing Files](/Build_Files/3D_Printing)
@@ -61,14 +61,16 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 ## Attribution
 <!--- ATTRIBUTION: Include any information related to the development of the design. This may include who identified the initial challenge, who contributed to the design --->
 
-The original design files were created by [Akaki](https://www.printables.com/social/106360-akaki/about).
+ - The original design of the [One-Handed Xbox Series XS Controller](https://www.printables.com/model/156112-one-handed-xbox-series-xs-controller) was created by [Akaki](https://www.printables.com/social/106360-akaki/about) and released with a [CC-BY-NC-SA license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-The left handed modification was remixed by [Ryan Heitanen](https://www.printables.com/social/120065-ryan-hietanen/about).
+ - The left handed modification was remixed by [Ryan Heitanen](https://www.printables.com/social/120065-ryan-hietanen/about).
 
-The documentation template was created by Makers Making Change and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
+ - Additional documentation was created by Neil Squire Society / Makers Making Change.
+ - The documentation template was created by Makers Making Change and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
----
+----
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -87,3 +89,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+<!-- ABOUT MMC END -->
