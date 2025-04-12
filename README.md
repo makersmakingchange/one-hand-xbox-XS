@@ -41,12 +41,12 @@ Reference the [maker guide](/Documentation/OneHandedXboxXSController_Maker_Guide
 
 | Document | Version | Link |
 |----------|---------|------|
-| Design Summary| 1.0 | [OneHandedXboxXSController_Summary](/Documentation/OneHandedXboxXSController_Summary_V1.0.pdf) |
-| Design Rationale     | 1.0 | [OneHandedXboxXSController_Design_Rationale](/Documentation/OneHandedXboxXSController_Design_Rationale_V1.0.pdf) |
-| Bill of Materials    | 1.0 | [OneHandedXboxXSController_BOM](/Documentation/OneHandedXboxXSController_BOM_V1.0.xlsx) |
-| Maker Guide      | 1.0 | [OneHandedXboxXSController_Maker_Guide](/Documentation/OneHandedXboxXSController_Maker_Guide_V1.0.pdf) |
-| User Guide          | 1.0 | [OneHandedXboxXSController_User_Guide](/Documentation/OneHandedXboxXSController_User_Guide_V1.0.pdf)           |
-| Changelog            | 1.0 | [OneHandedXboxXSController_Changelog](/Documentation/OneHandedXboxXSController_Changelog_V1.0.pdf)               |
+| Design Summary| 1.0 | [OneHandedXboxXSController_Summary](/Documentation/OneHandedXboxXSController_Summary.pdf) |
+| Design Rationale     | 1.0 | [OneHandedXboxXSController_Design_Rationale](/Documentation/OneHandedXboxXSController_Design_Rationale.pdf) |
+| Bill of Materials    | 1.0 | [OneHandedXboxXSController_BOM](/Documentation/OneHandedXboxXSController_BOM.xlsx) |
+| Maker Guide      | 1.0 | [OneHandedXboxXSController_Maker_Guide](/Documentation/OneHandedXboxXSController_Maker_Guide.pdf) |
+| User Guide          | 1.0 | [OneHandedXboxXSController_User_Guide](/Documentation/OneHandedXboxXSController_User_Guide.pdf)           |
+| Changelog            | 1.0 | [OneHandedXboxXSController_Changelog](/Documentation/OneHandedXboxXSController_Changelog.pdf)               |
 
 ### Build Files
 <!--- BUILD FILES --->
